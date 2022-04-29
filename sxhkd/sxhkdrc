@@ -63,7 +63,7 @@ super + e
     atom
 
 #Browser
-super + b
+super + w
     brave
 
 #Conky-toggle

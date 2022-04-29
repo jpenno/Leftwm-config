@@ -146,10 +146,10 @@ command = "FocusWindowDown"
 modifier = ["modkey"]
 key = "j"
 
-[[keybind]]
-command = "NextLayout"
-modifier = ["modkey"]
-key = "space"
+#[[keybind]]
+#command = "NextLayout"
+#modifier = ["modkey"]
+#key = "space"
 
 [[keybind]]
 command = "PreviousLayout"
